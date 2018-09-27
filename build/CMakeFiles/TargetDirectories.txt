@@ -1,0 +1,5 @@
+/root/train_1/build/CMakeFiles/rebuild_cache.dir
+/root/train_1/build/CMakeFiles/edit_cache.dir
+/root/train_1/build/src/CMakeFiles/rebuild_cache.dir
+/root/train_1/build/src/CMakeFiles/cmake_train.dir
+/root/train_1/build/src/CMakeFiles/edit_cache.dir

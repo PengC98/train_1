@@ -1,0 +1,1 @@
+g++    -rdynamic CMakeFiles/cmake_train.dir/cmake_train.cpp.o  -o ../../bin/cmake_train  -L/root/train_1/lib 
